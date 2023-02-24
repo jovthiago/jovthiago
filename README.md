@@ -2,7 +2,7 @@
 
 
 - 🔭 Atuo como Analista de suporte N2 pelo GRAN.
-- 🌱  DEVOPS (Vagrant, Ansible, Docker, Terraform, GitHub, Linux) - migração de carreira
+- 🌱 Estudando Cloud (Aws e Azure) DEVOPS (Vagrant, Ansible, Docker, Terraform, GitHub, Linux) - migração de carreira
 
 <div align="center">
   <a href="https://github.com/jovthiago">
@@ -12,7 +12,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
- <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+  <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
   <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
